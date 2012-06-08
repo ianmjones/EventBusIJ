@@ -50,6 +50,13 @@ Using *RemoveEventHandlerIJ* isn't strictly necessary as **EventBusIJ** uses wea
 A future version may enforce this rule, by making the *AddEventHandlerIJ* and *RemoveEventHandlerIJ* methods only available to objects implementing the **EventHandlerIJ** interface.
 
 
+## How To Get ##
+
+[Download, clone or fork from GitHub](https://github.com/ianmjones/EventBusIJ)
+
+	git clone https://github.com/ianmjones/EventBusIJ.git
+
+
 ## Author ##
 
 Ian M. Jones  
