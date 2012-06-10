@@ -1,6 +1,6 @@
 # EventBusIJ #
 
-A simple Event Bus for Desktop and Web Edition Real Studio projects.
+A simple *synchronous* Event Bus for Desktop and Web Edition Real Studio projects.
 
 Events can be raised for any listener to handle. Messages are sent application wide in a console or desktop application, but are scoped to the current session in web applications.
 
